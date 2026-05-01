@@ -84,7 +84,7 @@ PlantGuard/
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/plantguard.git
+git clone https://github.com/Naincy-tiwari/plantguard.git
 
 # Navigate to project
 cd plantguard
